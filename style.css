@@ -1,0 +1,14 @@
+
+input:focus {
+    color: white;
+}
+body{
+    background: rgb(34,113,195);
+   
+    background: linear-gradient(0deg, rgba(34,113,195,1) 0%, rgba(115,88,185,1) 37%, rgba(159,74,180,1) 93%, rgba(253,45,168,1) 100%);
+
+    background-repeat: no-repeat;
+    height: 100vh;
+    font-size: 30px;
+    
+}
